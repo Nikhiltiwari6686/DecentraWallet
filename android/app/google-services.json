@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082035361198",
+    "project_id": "decentrawallet-f5c2a",
+    "storage_bucket": "decentrawallet-f5c2a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082035361198:android:78d29fd4798175d00fe43f",
+        "android_client_info": {
+          "package_name": "com.decentrawallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKhZzAV3alZBbkBgz9T2m6irzgCl6PGqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
